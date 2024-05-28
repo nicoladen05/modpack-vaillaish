@@ -225,11 +225,6 @@ hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
 metafile = true
 
 [[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "795b4b06192f88c691efa880241b903d86c1e1788bdf27277f28f97400d11da0"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "30bfc155642b5ac74da4a8e2006a0f1b671e27148e71bdca2a6929b3cf18edb7"
 metafile = true
