@@ -6,8 +6,8 @@ hash = "d7dc98c816d6223589517ead6f1f01d7ec01dd5b6e3db88e2ba04883414ae9d1"
 metafile = true
 
 [[files]]
-file = "mods/NightlyBuild_1.20.6-75a51be2-2024-05-27T17_57_58-05_00.zip"
-hash = "93d6c15333f2a667771e7308b2d1fbe9acce90ec16aecefa3d545c6fd9ebebcc"
+file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.6.jar"
+hash = "aad493d29548426d00a65a6108e327d000e60c2d32a956bb12db68d38ee2c76b"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
