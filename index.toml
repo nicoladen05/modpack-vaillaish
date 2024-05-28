@@ -240,6 +240,11 @@ hash = "2ea60fa65ba61b23c95ea6922560cc549e87da559df245e9c15fe863ba7d1fe4"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "5e7d5da90a48ab9937bc6505ce070df78d0250be64a9b30a11265f0fc25cf8f3"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "47dddf611d70f7d64bae2084265a60d19d537054922c7412df6ddbed511aeb3d"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "a6d4e437ccf9f32d491e123e0a1e35690ef6beda5003bb5b1f025af713d2baeb"
 metafile = true
 
 [[files]]
