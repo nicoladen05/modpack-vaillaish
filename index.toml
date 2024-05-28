@@ -6,6 +6,10 @@ hash = "d7dc98c816d6223589517ead6f1f01d7ec01dd5b6e3db88e2ba04883414ae9d1"
 metafile = true
 
 [[files]]
+file = "mods/NightlyBuild_1.20.6-75a51be2-2024-05-27T17_57_58-05_00.zip"
+hash = "93d6c15333f2a667771e7308b2d1fbe9acce90ec16aecefa3d545c6fd9ebebcc"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "de9b1baa818760198825f53503f12b166a598859e7c4d3c3f8fabe04bbc10467"
 metafile = true
