@@ -75,11 +75,6 @@ hash = "5880c8495984f1236b8ce71b3370b31327b380b527d9799b1dcc45c70e538e93"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "1e6fa29fb01de5d6e2e7526c20b202fce8fcbb3b15efc1b9be7cc07d6cd5aa40"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "a6bd264b68b89ee21228e3dff8e06e1003f6844928f299bce56e1786066d1454"
 metafile = true
