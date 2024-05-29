@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d80ddf72ebc03bb698043968c2b06272fbbbcf45927e67083d19e65f322b1ca9"
+hash = "eaf8b166ec94eb35697b05fc2397fe27025e38c6aecf0237279a1b94d27a039e"
 metafile = true
 
 [[files]]
@@ -257,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "da0d3ae62c7d0d3fce4bb57e5d64479cf3ed21c541e76e71dab15e7fd1e310a7"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "8eebb68df4f4626718ba11977e553595a1d11252bb881321019ab252a2ee0878"
 metafile = true
 
 [[files]]
