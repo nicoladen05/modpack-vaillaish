@@ -10,6 +10,11 @@ file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.6.jar"
 hash = "aad493d29548426d00a65a6108e327d000e60c2d32a956bb12db68d38ee2c76b"
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "de9b1baa818760198825f53503f12b166a598859e7c4d3c3f8fabe04bbc10467"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "c370a25f629461eec506c6acf7b313de9e92312bc6b97321a2cc565fe1a57fd4"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "8f16cfd00838e0fea189de57429e08a632944d48a62140d52af15c54b520c9b5"
 metafile = true
 
 [[files]]
@@ -42,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "52f0f7fc78f73a9b7143c57d59e3c5bc39ce5e4e1691382fe8ca6403861a40dc"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
 
 [[files]]
