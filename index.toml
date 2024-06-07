@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c370a25f629461eec506c6acf7b313de9e92312bc6b97321a2cc565fe1a57fd4"
+hash = "e4b222ffef7f95f6efa4f1ff87e93bd2c4e2fd1df5cfc97404c036f561aa0e5d"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "2575fe30c2f0b8698216392f03a94562983cd6824b78a292a2c946449b543f16"
+hash = "bb1fdcda41dc299db0124adc1505a6effdeab3f97a315a760783bbc40c61c72d"
 metafile = true
 
 [[files]]
@@ -89,6 +89,11 @@ hash = "1e6fa29fb01de5d6e2e7526c20b202fce8fcbb3b15efc1b9be7cc07d6cd5aa40"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "b4c8668b34485f5223bf1e393ace2d5b9c1a5a04e3c265df47f78e8bb08e0f07"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "a6bd264b68b89ee21228e3dff8e06e1003f6844928f299bce56e1786066d1454"
 metafile = true
@@ -130,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d80ddf72ebc03bb698043968c2b06272fbbbcf45927e67083d19e65f322b1ca9"
+hash = "d47762be5aaaf014cb93812502944dff9f1dc3466f3de96f4d4808da8e97bdee"
 metafile = true
 
 [[files]]
@@ -140,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "15b320c319d07abceb441cc77bcb905f3018ee5f4dcaf75a0bd3ef1bded92db0"
+hash = "ee5790a9d882421fbe0955d4386b7b36a1d9135caa8e62bc5a5724b0a56a6787"
 metafile = true
 
 [[files]]
@@ -155,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "28044e4e83fd84d12d1c1b7202af259d651b894441233b7ae22e2737d5f045c5"
+hash = "dad79174c46351f2ffe35d1fcd3ae626442322e587826080cdda343069da0183"
 metafile = true
 
 [[files]]
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
+hash = "3c5c24ba7c1af10c4bd3522efa8d1b89c88352e53382529610f81d50d46f0a32"
 metafile = true
 
 [[files]]
@@ -199,6 +204,11 @@ hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "4b7bdc7d2bd4ec450b80219d1fc44cbdce13264a661c8324dbf7937837fc7a6f"
 metafile = true
@@ -220,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
+hash = "ce0282aa9a31909cba4c187bbf1ea0df1c0cd6077d21f89130116f6051a8d6ca"
 metafile = true
 
 [[files]]
@@ -230,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "da321c0f80272935a4975b82c18716e64f23c6675029c7e46514b9bd6ff706c4"
+hash = "47c19a02e732d94fc230b333f68367a73564f0bb98531ff7634dae11947b21a8"
 metafile = true
 
 [[files]]
@@ -274,6 +284,11 @@ hash = "da0d3ae62c7d0d3fce4bb57e5d64479cf3ed21c541e76e71dab15e7fd1e310a7"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "6554f134a7dd74d1156b5d6ac8d9952d7c17761cc3b0ce19c7b39fb02cb62e42"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "99d556476934ee2444f57d5a1855e64a1c10e303494aac3b3b0cdb7790299804"
 metafile = true
@@ -300,17 +315,17 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "a6d4e437ccf9f32d491e123e0a1e35690ef6beda5003bb5b1f025af713d2baeb"
+hash = "a1cfaa434b979b6f2778832353be5e9981f696f101e4c4d54ba0820bc1e1b1d6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ab10da52f23ab66a82d1593cccda8daa637fcc5b9bc296453f26d1aa439ecd85"
+hash = "8fa876040c642ee78f3b835aa5273daad3a2817ee86ec5975d103a240da9648e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "15326a294defbf113ab8530fd725e857e87c2f468ccaa8fe26ca87eaba73ded3"
+hash = "08d3dd914a003e402612bfeb60bcb31e5060d07058be7c691faa44413c182f57"
 metafile = true
 
 [[files]]
