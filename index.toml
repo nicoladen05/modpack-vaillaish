@@ -6,10 +6,6 @@ hash = "d7dc98c816d6223589517ead6f1f01d7ec01dd5b6e3db88e2ba04883414ae9d1"
 metafile = true
 
 [[files]]
-file = "mods/CameraOverhaul-2.0.0-fabric-[1.19.3-1.20.4].jar"
-hash = "6f26c4e6752248d6b8f5e7c7d1a2876b80be7046a9b6c621e4fcb070f6fb4e89"
-
-[[files]]
 file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.6.jar"
 hash = "aad493d29548426d00a65a6108e327d000e60c2d32a956bb12db68d38ee2c76b"
 
