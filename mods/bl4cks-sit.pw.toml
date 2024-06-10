@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-1.20.6-27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/rIWPdlop/sit-1.20.6-27.jar"
+hash-format = "sha1"
+hash = "05a7091ca54e971e558b144db30f9c061b2c705c"
+
+[update]
+[update.modrinth]
+mod-id = "VKXzIykF"
+version = "rIWPdlop"

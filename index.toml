@@ -40,6 +40,11 @@ hash = "bb1fdcda41dc299db0124adc1505a6effdeab3f97a315a760783bbc40c61c72d"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "e708256a0446dcc61c9536484ba5a4d5e001bab127f005a0c6ffcfbe24bec361"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "19716c2b341c0883ca1eea0c010b82fd8b9c190bb0649513f7c03bf4588143ba"
 metafile = true
@@ -47,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "52f0f7fc78f73a9b7143c57d59e3c5bc39ce5e4e1691382fe8ca6403861a40dc"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "6dc16648c4b9f4dbb2b27e2f8cbfc88984464ecce908c3cc2fe6106ca8223b77"
 metafile = true
 
 [[files]]
