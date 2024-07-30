@@ -1,13 +1,13 @@
 name = "Sit"
-filename = "sit-1.20.6-27.jar"
+filename = "sit-1.21-28.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VKXzIykF/versions/rIWPdlop/sit-1.20.6-27.jar"
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/uQnamhq3/sit-1.21-28.jar"
 hash-format = "sha1"
-hash = "05a7091ca54e971e558b144db30f9c061b2c705c"
+hash = "2a2ff799aad6899e08d2ccfd366ee0737298fcce"
 
 [update]
 [update.modrinth]
 mod-id = "VKXzIykF"
-version = "rIWPdlop"
+version = "uQnamhq3"
