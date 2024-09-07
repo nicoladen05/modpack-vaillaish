@@ -1,0 +1,13 @@
+name = "Roughly Enough Items Fabric/Forge/NeoForge (REI)"
+filename = "RoughlyEnoughItems-16.0.762-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2502fd7906503a27b69e42f76ebfd4a411fbe0b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5692848
+project-id = 310111
